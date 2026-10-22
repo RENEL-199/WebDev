@@ -1,0 +1,201 @@
+{
+  "siteTitle": "My top 5 in every era",
+  "subtitle": "My personal top 5 Taylor Swift songs from every album.",
+  "note": "This is my personal ranking.",
+  "albums": [
+    {
+      "id": "debut",
+      "title": "Taylor Swift",
+      "year": 2006,
+      "era": "Debut Era",
+      "color": "#8fbd8a",
+      "cover": "Assets/Debut.webp",
+      "description": "The beginning: country roots, small-town stories, and first-love feelings.",
+      "songs": [
+        "Our Song",
+        "Should've Said No",
+        "Teardrops on My Guitar",
+        "Tim McGraw",
+        "Picture to Burn"
+      ]
+    },
+    {
+      "id": "fearless",
+      "title": "Fearless (Taylor's Version)",
+      "year": 2008,
+      "era": "Fearless Era",
+      "color": "#d7a64c",
+      "cover": "Assets/Fearless.jpg",
+      "description": "Golden memories, fearless romance, and growing up in real time.",
+      "songs": [
+        "Hey Stephen",
+        "Mr. Perfectly Fine",
+        "You Belong with Me",
+        "Love Story",
+        "The Way I Loved You"
+        
+      ]
+    },
+    {
+      "id": "speak-now",
+      "title": "Speak Now (Taylor's Version)",
+      "year": 2010,
+      "era": "Speak Now Era",
+      "color": "#a88ac7",
+      "cover": "Assets/Speak Now.jpg",
+      "description": "A self-written diary full of dramatic bridges and big feelings.",
+      "songs": [
+        "Enchanted",
+        "Dear John",
+        "Back to December",
+        "Long Live",
+        "Sparks Fly"
+      ]
+    },
+    {
+      "id": "red",
+      "title": "Red (Taylor's Version)",
+      "year": 2012,
+      "era": "Red Era",
+      "color": "#c95a58",
+      "cover": "Assets/Red.jpg",
+      "description": "A messy, vivid collection of heartbreak, nostalgia, and reinvention.",
+      "songs": [
+        "All Too Well (10 Minute Version)",
+        "State of Grace",
+        "Holy Ground",
+        "Treacherous",
+        "Nothing New"
+      ]
+    },
+    {
+      "id": "1989",
+      "title": "1989 (Taylor's Version)",
+      "year": 2014,
+      "era": "1989 Era",
+      "color": "#76b9c7",
+      "cover": "Assets/1989.gif",
+      "description": "City lights, bright synth-pop, and the thrill of a new chapter.",
+      "songs": [
+        "Is It Over Now?",
+        "Style",
+        "Clean",
+        "New Romantics",
+        "Out of the Woods"
+        
+      ]
+    },
+    {
+      "id": "reputation",
+      "title": "reputation",
+      "year": 2017,
+      "era": "reputation Era",
+      "color": "#55545d",
+      "cover": "Assets/Reputation.jpg",
+      "description": "Sharp edges, secret love, and choosing who gets to know you.",
+      "songs": [
+        "Getaway Car",
+        "Delicate",
+        "Call It What You Want",
+        "I Did Something Bad",
+        "New Year's Day"
+      ]
+    },
+    {
+      "id": "lover",
+      "title": "Lover",
+      "year": 2019,
+      "era": "Lover Era",
+      "color": "#eaa3c2",
+      "cover": "Assets/Lover.gif",
+      "description": "Pastel daydreams, devotion, and love in all its complicated forms.",
+      "songs": [
+        "Cruel Summer",
+        "Death by a Thousand Cuts",
+        "Cornelia Street",
+        "The Archer",
+        "Daylight"
+      ]
+    },
+    {
+      "id": "folklore",
+      "title": "folklore",
+      "year": 2020,
+      "era": "folklore Era",
+      "color": "#8c9698",
+      "cover": "Assets/Folklore.jpg",
+      "description": "Woodland stories, quiet ache, and characters that feel like memories.",
+      "songs": [
+        "august",
+        "the 1",
+        "my tears ricochet",
+        "cardigan",
+        "mirrorball"
+      ]
+    },
+    {
+      "id": "evermore",
+      "title": "evermore",
+      "year": 2020,
+      "era": "evermore Era",
+      "color": "#bd8a61",
+      "cover": "Assets/Evermore.webp",
+      "description": "Autumnal storytelling, bittersweet endings, and finding a way through.",
+      "songs": [
+        "champagne problems",
+        "right where you left me",
+        "ivy",
+        "tolerate it",
+        "gold rush"
+      ]
+    },
+    {
+      "id": "midnights",
+      "title": "Midnights",
+      "year": 2022,
+      "era": "Midnights Era",
+      "color": "#626e9b",
+      "cover": "Assets/Midnights.webp",
+      "description": "Sleepless thoughts, self-reflection, and glittering late-night pop.",
+      "songs": [
+        "Labyrinth",
+        "Maroon",
+        "You're on Your Own, Kid",
+        "Anti-Hero",
+        "Mastermind"
+      ]
+    },
+    {
+      "id": "ttpd",
+      "title": "The Tortured Poets Department",
+      "year": 2024,
+      "era": "TTPD Era",
+      "color": "#d8d2c8",
+      "cover": "Assets/TTPD.jpg",
+      "description": "Unfiltered confessionals, literary references, and emotional wreckage.",
+      "songs": [
+        "Guilty as Sin?",
+        "The Black Dog",
+        "Who's Afraid of Little Old Me?",
+        "loml",
+        "The Prophecy"
+      ]
+    },
+    {
+      "id": "showgirl",
+      "title": "The Life of a Showgirl",
+      "year": 2025,
+      "era": "Showgirl Era",
+      "color": "#e79a64",
+      "cover": "Assets/Showgirl.webp",
+      "description": "A spotlight-bright chapter for a playlist that keeps evolving.",
+      "songs": [
+        "The Fate of Ophelia",
+        "Elizabeth Taylor",
+        "Opalite",
+        "Father Figure",
+        "The Life of a Showgirl"
+      ]
+    }
+  ]
+}
